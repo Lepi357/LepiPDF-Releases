@@ -4,6 +4,8 @@
 
 Pensado para uso cotidiano, soporte técnico, administración y trabajo con documentación, combina visualización, edición no destructiva, formularios, organización de páginas e integración con Windows.
 
+<img width="1613" height="881" alt="image" src="https://github.com/user-attachments/assets/97e1e897-9725-4095-9a22-906e15a0f001" />
+
 ## Versión actual
 
 **LepiPDF 1.9.6**  
