@@ -1,0 +1,26 @@
+LEPIPDF - LICENCIA DE USO
+Versión 1.9.6
+
+Copyright © 2026 Fernando Lepiscopo.
+Lepi Software / We-Soluciones - Argentina.
+
+1. LepiPDF se distribuye de forma gratuita para uso personal o comercial.
+
+2. Se autoriza la redistribución gratuita del instalador oficial siempre que el archivo se mantenga sin modificaciones y conserve los avisos de autoría y licencia.
+
+3. Esta licencia no concede derechos sobre el código fuente de LepiPDF. No se autoriza modificar, redistribuir, vender, relicenciar ni presentar LepiPDF como desarrollo propio sin permiso expreso del autor.
+
+4. No se autoriza la ingeniería inversa, descompilación o modificación del ejecutable con el objetivo de reutilizar o redistribuir partes del programa, salvo cuando una legislación aplicable establezca expresamente lo contrario.
+
+5. El usuario es responsable del uso que realice del software y de los documentos que procese, modifique, complete, reorganice o distribuya mediante LepiPDF.
+
+6. El software no debe utilizarse para falsificar documentos, cometer fraude o vulnerar derechos de terceros.
+
+7. La modificación de un PDF puede afectar firmas digitales, certificaciones o propiedades del documento. El usuario debe verificar la validez del documento resultante cuando corresponda.
+
+8. LepiPDF se proporciona "tal cual", sin garantías de funcionamiento ininterrumpido o compatibilidad con todos los archivos PDF, dentro de los límites permitidos por la legislación aplicable.
+
+Autor:
+Fernando Lepiscopo
+Lepi Software / We-Soluciones
+Argentina
