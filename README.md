@@ -24,6 +24,8 @@ Lepi-PDF es una aplicación de escritorio desarrollada por **Lepi Software / We-
 
 **[Descarga directa del instalador para Windows x64](https://github.com/Lepi357/LepiPDF-Releases/releases/latest/download/LepiPDF_Setup_x64.exe)**
 
+[![Descargas acumuladas](https://img.shields.io/github/downloads/Lepi357/LepiPDF-Releases/total?style=for-the-badge&label=Descargas%20acumuladas&color=2da44e)](https://github.com/Lepi357/LepiPDF-Releases/releases)
+
 El instalador y el archivo de verificación SHA-256 están disponibles en los archivos adjuntos de cada publicación. El enlace directo funciona mientras se mantenga el nombre compatible `LepiPDF_Setup_x64.exe` en la versión más reciente.
 
 ## Requisitos
