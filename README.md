@@ -2,7 +2,7 @@
 
 **Visor y herramientas para trabajar con documentos PDF en Windows.**
 
-Lepi-PDF es una aplicación de escritorio desarrollada por **Lepi Software / We-Soluciones**. Nació para resolver necesidades concretas de trabajo con documentos y reúne funciones de lectura, edición, conversión, organización e impresión en una sola herramienta.
+Lepi-PDF nació para resolver necesidades concretas de trabajo con documentos y reúne funciones de lectura, edición, conversión, organización e impresión en una sola herramienta.
 
 <img width="1182" height="832" alt="image" src="https://github.com/user-attachments/assets/0a104e19-25b0-4051-9ffc-d65c8ab9fed6" />
 
